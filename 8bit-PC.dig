@@ -173,11 +173,6 @@
       <pos x="-340" y="180"/>
     </visualElement>
     <visualElement>
-      <elementName>8bitfulladder.dig</elementName>
-      <elementAttributes/>
-      <pos x="-260" y="-80"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -224,6 +219,11 @@
         </entry>
       </elementAttributes>
       <pos x="220" y="-180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>8bitripplecarryadder.dig</elementName>
+      <elementAttributes/>
+      <pos x="-260" y="-80"/>
     </visualElement>
   </visualElements>
   <wires>
