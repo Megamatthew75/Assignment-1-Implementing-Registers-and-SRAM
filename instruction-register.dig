@@ -124,7 +124,8 @@
       <elementAttributes>
         <entry>
           <string>Description</string>
-          <string>0-&gt;Load</string>
+          <string>0-&gt;Load output
+1-&gt;Load input</string>
         </entry>
         <entry>
           <string>Label</string>
@@ -138,7 +139,8 @@
       <elementAttributes>
         <entry>
           <string>Description</string>
-          <string>0-&gt;Load</string>
+          <string>0-&gt;Load IR output (hold)
+1-&gt;Load IR input</string>
         </entry>
       </elementAttributes>
       <pos x="-340" y="240"/>
