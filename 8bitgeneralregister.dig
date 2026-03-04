@@ -174,17 +174,17 @@
         </entry>
         <entry>
           <string>Description</string>
-          <string>Matthew&apos;s General Register Implementation</string>
+          <string>Matthew&apos;s General Purpose Register Implementation</string>
         </entry>
       </elementAttributes>
-      <pos x="300" y="40"/>
+      <pos x="220" y="60"/>
     </visualElement>
     <visualElement>
       <elementName>8-bit-register.dig</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>R_1</string>
+          <string>R_0</string>
         </entry>
       </elementAttributes>
       <pos x="880" y="180"/>
@@ -194,7 +194,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>R_2</string>
+          <string>R_1</string>
         </entry>
       </elementAttributes>
       <pos x="880" y="300"/>
@@ -204,7 +204,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>R_3</string>
+          <string>R_2</string>
         </entry>
       </elementAttributes>
       <pos x="880" y="420"/>
@@ -214,7 +214,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>R_4</string>
+          <string>R_3</string>
         </entry>
       </elementAttributes>
       <pos x="880" y="540"/>
